@@ -1,5 +1,5 @@
 ## robotics-project
-A simple monocular visual odometry based on OpenCV library.  
+A simple feature-based monocular visual odometry based on OpenCV library.  
 #### Compilation:
   > mkdir build  
   > cd build  
