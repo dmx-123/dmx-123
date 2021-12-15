@@ -6,4 +6,9 @@ A simple feature-based monocular visual odometry based on OpenCV library.
   > cmake ..  
   > make  
 
-This should give you an executable "mvo".  
+This should give you an executable "mvo".  To use this executable, run  
+  >./mvo  
+
+### Dataset:  
+If you would like to use your own dataset, remember to change file directory in the source code.  
+
