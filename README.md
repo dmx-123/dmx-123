@@ -1,6 +1,6 @@
 ## robotics-project
 A simple feature-based monocular visual odometry based on OpenCV library.  
-#### Compilation of the source code:
+### Compilation of the source code:
   > mkdir build  
   > cd build  
   > cmake ..  
