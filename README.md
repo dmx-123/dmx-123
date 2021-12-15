@@ -14,6 +14,3 @@ If you would like to use your own dataset, remember to change file directory in 
 I used the KITTI odometry dataset (sequence 00). The link of KITTI dataset is here:  
 http://www.cvlibs.net/datasets/kitti/eval_odometry.php  
 
-### Result and Demo:
-![Comparison] https://github.com/dmx-123/robotics-project/blob/main/result/comparison.png  
-
