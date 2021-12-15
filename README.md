@@ -11,6 +11,7 @@ This should give you an executable "mvo".  To use this executable, run
 
 ### Dataset:  
 If you would like to use your own dataset, remember to change file directory in the source code.  
-I used the KITTI odometry dataset (sequence 00). The link of KITTI dataset is here:
+I used the KITTI odometry dataset (sequence 00). The link of KITTI dataset is here:  
 http://www.cvlibs.net/datasets/kitti/eval_odometry.php  
-### 
+
+### Result and Demo:
