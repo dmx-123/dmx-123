@@ -1,2 +1,3 @@
-# robotics-project
-Config files for my GitHub profile.
+## robotics-project
+A simple monocular visual odometry based on OpenCV library.
+
