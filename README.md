@@ -1,4 +1,4 @@
-## CSCE643 SLAM Final Project
+## TAMU CSCE643 SLAM Final Project
 A simple feature-based monocular visual odometry based on OpenCV library.  
 ### Compilation of the source code:
   > mkdir build  
